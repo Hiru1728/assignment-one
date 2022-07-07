@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto Slab',
+        serif;
+}
+
+h1 {
+    font-size: 70px;
+
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.full-width {
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.first-page {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    margin-bottom: 10px;
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.donate-today {
+    text-align: center;
+    font-size: 30px;
+}
+
+.tk-amount {
+    width: 7%;
+    margin-left: 20%;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(250, 247, 243);
+}
