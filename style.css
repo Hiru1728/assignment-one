@@ -3,12 +3,12 @@ body {
         serif;
 }
 
-h1 {
+#font-size {
     font-size: 70px;
 
 }
 
-p {
+#main-point {
     font-size: 20px;
     text-align: center;
     padding-bottom: 2%;
@@ -47,6 +47,16 @@ p {
     font-size: 30px;
 }
 
+#donate-font-size {
+    font-size: 40px;
+}
+
+#pharagrap-donate {
+    text-align: center;
+    font-size: 30px;
+    color: #757474;
+}
+
 .First-scetion-tk {
     /* width: 40%;*/
     margin-left: 20px;
@@ -78,11 +88,159 @@ p {
     display: flex;
     text-align: center;
     margin-right: 350px;
-    margin-left: 300px;
+    margin-left: 320px;
     padding-bottom: 40px;
 }
 
-.second-section-tk {
-    width: 60%;
-    margin-right: 20px;
+#other-amount {
+    text-align: center;
+    color: #757474;
+}
+
+#underline {
+    width: 800px;
+    height: 1px;
+    background-color: #757474;
+}
+
+.donate-now {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 130px;
+}
+
+.our-donation-plan {
+    width: 26%;
+}
+
+.flexible-container2 {
+    display: flex;
+    padding-left: 150px;
+    padding-top: 40px;
+
+
+}
+
+#text-color {
+    color: #757474;
+    font-size: 22px;
+
+
+}
+
+.img-size {
+    width: 15%;
+}
+
+.food {
+    margin-right: 25px;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    background-color: rgb(233, 247, 247);
+    border-radius: 5px;
+}
+
+.shelter {
+    margin-right: 25px;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+.education {
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+#image-padding {
+    width: 13%;
+}
+
+.half-width {
+    width: 40%;
+}
+
+.flexible-container3 {
+    margin-top: 150px;
+    display: flex;
+    padding-left: 150px;
+    margin-bottom: 150px;
+
+}
+
+#half-width-img {
+    width: 450Px;
+    height: 500px;
+    margin-left: 50px;
+    border-radius: 7px;
+}
+
+.padding-button {
+    padding-bottom: 20px;
+}
+
+.link-button-how {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    padding: 15px 40px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#get-my-up {
+    text-align: center;
+    font-size: 22px;
+    color: #757474;
+    padding-bottom: 40px;
+}
+
+.flexible-container4 {
+    display: flex;
+    width: 800px;
+    height: 150px;
+    background-color: antiquewhite;
+    margin-left: 345px;
+    border-radius: 5px;
+    margin-bottom: 200px;
+}
+
+.email {
+    width: 50%;
+    padding-left: 20px;
+    margin-top: 45px;
+    margin-bottom: 55px;
+    margin-left: 140px;
+    background-color: #757474;
+
+}
+
+.subscribe {
+    width: 50%;
+    padding-top: 60px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    height: 150px;
+}
+
+.be-humble {
+    color: tomato;
+
+}
+
+#gonna {
+    color: aquamarine;
 }
