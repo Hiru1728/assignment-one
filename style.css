@@ -220,13 +220,14 @@ body {
     margin-top: 45px;
     margin-bottom: 55px;
     margin-left: 140px;
-    background-color: #757474;
+    background-color: #d4d3d3;
+    border-radius: 7px 0px 0px 7px;
 
 }
 
 .subscribe {
     width: 50%;
-    padding-top: 60px;
+    padding-top: 61px;
 }
 
 footer {
@@ -243,4 +244,14 @@ footer {
 
 #gonna {
     color: aquamarine;
+}
+
+.link-button-subscribe {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    margin-bottom: 10px;
+    padding: 17px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 0px 7px 7px 0px;
 }
